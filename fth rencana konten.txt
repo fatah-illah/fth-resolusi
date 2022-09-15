@@ -3,9 +3,11 @@ RENCANA KONTEN FTH
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
-    ^ React
+   ^ Vue
+   ^ React
+- Struktur Data Dasar
 - PHP Framework
   * Laravel
 - Interview
 - Blogs
+- Phyton
