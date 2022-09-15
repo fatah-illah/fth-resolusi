@@ -2,7 +2,8 @@ RENCANA KONTEN FTH
 
 - Javascript
   * ES6
-  * Framework Javascript ,
+  * Framework Javascript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Blogs
